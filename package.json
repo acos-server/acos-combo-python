@@ -1,0 +1,17 @@
+{
+  "name": "acos-combo-python",
+  "version": "0.1.0",
+  "description": "Python Combo exercises",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Teemu Sirkiä",
+  "peerDependencies": {
+    "acos-combo": "^0.1.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acos-server/acos-combo-python.git"
+  }
+}
