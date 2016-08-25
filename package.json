@@ -7,7 +7,7 @@
   },
   "author": "Teemu Sirkiä",
   "peerDependencies": {
-    "acos-combo": "^0.1.0"
+    "acos-combo": "^0.2.0"
   },
   "license": "MIT",
   "repository": {
