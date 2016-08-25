@@ -1,10 +1,9 @@
 {
   "name": "acos-combo-python",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Python Combo exercises",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Teemu Sirkiä",
   "peerDependencies": {
     "acos-combo": "^0.2.0"
